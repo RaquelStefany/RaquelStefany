@@ -20,7 +20,7 @@
 <h2>
     ⭐ Conhecimentos
 </h2>    
-<div>
+<a href="https://github.com/RaquelStefany">
     <img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="Raquel-HTML"/>        
     <img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="Raquel-CSS" />   
     <img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Raquel-JavaScript" />        
@@ -28,14 +28,18 @@
     <img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Raquel-MySQL" />
     <img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Raquel-Laravel" />
     <img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg" alt="Raquel-Ionic" />
-</div>      
+</a>      
 
 <h2>
     ⭐ Linguagens mais Usadas
 </h2>
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelStefany&layout=compact&langs_count=10&theme=github_dark">
+<a href="https://github.com/RaquelStefany">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelStefany&layout=compact&langs_count=10&theme=github_dark">
+</a>      
 
 <h2>
     ⭐ Estatísticas
 </h2>
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=RaquelStefany&show_icons=true&theme=tokyonight"/>
+<a href="https://github.com/RaquelStefany">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=RaquelStefany&show_icons=true&theme=tokyonight"/>
+</a>      
