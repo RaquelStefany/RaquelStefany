@@ -7,7 +7,7 @@
 </h2>
 <ul>
     <li>
-        Desenvolvedora Front-End
+        Desenvolvedora Web
     </li>
     <li>
         Técnica em Desenvolvimento de Sistemas
@@ -42,4 +42,18 @@
 </h2>
 <a href="https://github.com/RaquelStefany">
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=RaquelStefany&show_icons=true&theme=tokyonight"/>
+</a>      
+
+<hr>
+<h2>
+    ⭐ Redes Sociais
+</h2>
+<a href="https://www.facebook.com/raquelstefany.g/" target="_blank">
+    <img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Raquel-Facebook"/>
+</a>      
+<a href="https://www.linkedin.com/in/raquel-stefany-generoso-rodrigues-a51a7a201/" target="_blank">
+    <img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Raquel-LinkedIn"/>
+</a>      
+<a href="https://www.instagram.com/raquelrodriguez013/" target="_blank">
+    <img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="Raquel-Instagram"/>
 </a>      
