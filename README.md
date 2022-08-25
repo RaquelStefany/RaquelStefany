@@ -55,5 +55,5 @@
     <img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Raquel-LinkedIn"/>
 </a>      
 <a href="https://www.instagram.com/raquelrodriguez013/" target="_blank">
-    <img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="Raquel-Instagram"/>
+    <img width="8%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Raquel-Instagram"/>
 </a>      
