@@ -14,6 +14,12 @@
     </li>
     <li>
         Atualmente cursando Tecnólogo em Sistemas Para internet
+    </li>    
+    <li>
+        Conheça meu portfolio: 
+        <a href="https://raquelstefany.github.io/Portfolio-RaquelStefany/">
+            https://raquelstefany.github.io/Portfolio-RaquelStefany/
+        </a>
     </li>
 </ul>
 
