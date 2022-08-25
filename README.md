@@ -33,7 +33,7 @@
 <h2>
     ⭐ Linguagens mais Usadas
 </h2>
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelStefany&layout=compact&langs_count=10&theme=github_dark">
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelStefany&layout=compact&langs_count=10&theme=github_dark">
 
 <h2>
     ⭐ Estatísticas
