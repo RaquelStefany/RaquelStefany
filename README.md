@@ -1,7 +1,6 @@
 <h1>
     Olá!! Me chamo Raquel Stefany 👋
 </h1>
-<hr>
 
 <h2>
     ⭐ Sobre Mim
@@ -21,20 +20,22 @@
 <h2>
     ⭐ Conhecimentos
 </h2>    
-<div id="languages">
-    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />        
-    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />   
-    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />        
-    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />    
-    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
+<div>
+    <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="Raquel-HTML"/>        
+    <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="Raquel-CSS" />   
+    <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Raquel-JavaScript" />        
+    <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Raquel-PHP" />    
+    <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Raquel-MySQL" />
+    <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Raquel-Laravel" />
+    <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg" alt="Raquel-Ionic" />
 </div>      
 
 <h2>
     ⭐ Linguagens mais Usadas
 </h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelStefany&layout=compact&langs_count=7&theme=github_dark">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelStefany&layout=compact&langs_count=10&theme=github_dark">
 
 <h2>
     ⭐ Estatísticas
 </h2>
-<img src="https://github-readme-stats.vercel.app/api?username=RaquelStefany&show_icons=true&theme=tokyonight"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=RaquelStefany&show_icons=true&theme=tokyonight"/>
