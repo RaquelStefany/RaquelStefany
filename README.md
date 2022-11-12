@@ -27,6 +27,8 @@
     <img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Raquel-PHP" />    
     <img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Raquel-MySQL" />
     <img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg" alt="Raquel-Ionic" />
+    <img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Raquel-React" />
+    <img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Raquel-Python" />
 </a>      
 
 <h2>
@@ -47,12 +49,12 @@
 <h2>
     ⭐ Redes Sociais
 </h2>
-<a href="https://www.facebook.com/raquelstefany.g/" target="_blank">
-    <img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Raquel-Facebook"/>
-</a>      
 <a href="https://www.linkedin.com/in/raquel-stefany-generoso-rodrigues-a51a7a201/" target="_blank">
     <img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Raquel-LinkedIn"/>
 </a>      
 <a href="https://www.instagram.com/raquelrodriguez013/" target="_blank">
     <img width="8%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Raquel-Instagram"/>
+</a>      
+<a href="https://www.facebook.com/raquelstefany.g/" target="_blank">
+    <img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Raquel-Facebook"/>
 </a>      
