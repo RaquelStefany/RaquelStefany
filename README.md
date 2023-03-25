@@ -4,7 +4,7 @@
 
 ### 😀 Sobre mim:
 
-- Sou desenvolvedora Web
+- Sou Desenvolvedora Full Stack
 - Técnica em Desenvolvimento de Sistemas pela Etec
 - Atualmente cursando Tecnólogo em Sistemas Para internet na Fatec
 - Em busca da minha primeira oportunidade de Emprego
