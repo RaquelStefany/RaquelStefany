@@ -6,7 +6,7 @@
 
 - Sou Desenvolvedora Full Stack
 - Técnica em Desenvolvimento de Sistemas pela Etec
-- Atualmente cursando Tecnólogo em Sistemas Para internet na Fatec
+- Atualmente cursando Tecnólogo em Sistemas para Internet na Fatec
 - Em busca da minha primeira oportunidade de Emprego
 - Entre em contato: raquelstefany.work@gmail.com
 
@@ -39,16 +39,16 @@
 ### ⭐ Redes Sociais
 
 <div>
-    <a href="https://www.facebook.com/raquelstefany.g/" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Raquel-Facebook"/>
-    </a>         
-    <a href="mailto:raquelstefany.work@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Raquel-Gmail"/>
-    </a> 
     <a href="https://www.linkedin.com/in/raquel-stefany-generoso-rodrigues-a51a7a201/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Raquel-LinkedIn"/>
     </a>      
     <a href="https://www.instagram.com/raquelrodriguez013/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Raquel-Instagram"/>
+    </a>
+    <a href="https://www.facebook.com/raquelstefany.g/" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Raquel-Facebook"/>
+    </a>         
+    <a href="mailto:raquelstefany.work@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Raquel-Gmail"/>
     </a> 
 </div>
