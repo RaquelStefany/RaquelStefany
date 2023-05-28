@@ -30,7 +30,7 @@
 
 ### 💻 Badges
 
-<img src="./images/aluraChallengeProject1.png" width="150px" alt="Raquel-Badge do Alura Challenge Projeto 1!"/>
+<img src="./images/aluraChallengeProject1.png" width="100px" alt="Raquel-Badge do Alura Challenge Projeto 1!"/>
 
 <hr>
 
