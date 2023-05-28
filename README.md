@@ -12,15 +12,6 @@
 
 <hr>
 
-### 📈 Estatísticas
-
-<a href="https://github.com/RaquelStefany">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelStefany&layout=compact&langs_count=10&theme=github_dark">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RaquelStefany&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-</a>
-
-<hr>
-
 ### ⚡ Tecnologias
 
 <a href="https://github.com/RaquelStefany">
@@ -32,6 +23,21 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Raquel-React" />
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Raquel-CSharp" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Raquel-CPlusPlus" />
+</a>
+
+<hr>
+
+### 💻 Badges
+
+<img src="./images/aluraChallengeProject1.png" width="150px" alt="Raquel-Badge do Alura Challenge Projeto 1!"/>
+
+<hr>
+
+### 📈 Estatísticas
+
+<a href="https://github.com/RaquelStefany">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelStefany&layout=compact&langs_count=10&theme=github_dark">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RaquelStefany&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </a>
 
 <hr>
