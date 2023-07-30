@@ -27,15 +27,6 @@
 
 <hr>
 
-### 💻 Badges
-
-<div>
-    <img src="./images/aluraChallengeProject1.png" width="100px" alt="Raquel-Badge do Alura Challenge Projeto 1!"/>
-    <img src="./images/androidStudioUser.png" width="100px" alt="Raquel-Badge do Google Android Studio"/>
-</div>
-
-<hr>
-
 ### 📈 Estatísticas
 
 <a href="https://github.com/RaquelStefany">
