@@ -39,7 +39,7 @@
 ### ⭐ Redes Sociais
 
 <div>
-    <a href="https://www.linkedin.com/in/raquel-stefany-generoso-rodrigues-a51a7a201/" target="_blank">
+    <a href="https://www.linkedin.com/in/raquelstefany/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Raquel-LinkedIn"/>
     </a>      
     <a href="https://www.instagram.com/raquelrodriguez013/" target="_blank">
