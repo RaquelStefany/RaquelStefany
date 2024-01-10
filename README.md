@@ -5,9 +5,9 @@
 ### 😀 Sobre mim:
 
 - Desenvolvedora Full Stack
-- Técnica em Desenvolvimento de Sistemas pela Etec
-- Atualmente cursando Tecnólogo em Sistemas para Internet na Fatec
-- Estagiária de TI no Grupo Gelog
+-  Técnica em Desenvolvimento de Sistemas pela Etec
+- Atualmente cursando Tecnólogo em Analise e Desenvolvimento de Sistemas na Descomplica Faculdade
+- Analista de Desenvolvimento de Sistemas no Grupo Gelog
 - Entre em contato: raquelstefany.work@gmail.com
 
 <hr>
