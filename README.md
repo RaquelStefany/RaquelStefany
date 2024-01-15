@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Raquel-CSS" />   
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Raquel-JavaScript" />        
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Raquel-PHP" />    
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="Raquel-MySQL" />
+    <img src="https://img.shields.io/badge/SQL%20Server-00000F?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Raquel-SQL" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Raquel-React" />
     <img src="https://img.shields.io/badge/Python-ffbc00?style=for-the-badge&logo=python&logoColor=000000" alt="Raquel-Python" />
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Raquel-CSharp" />
