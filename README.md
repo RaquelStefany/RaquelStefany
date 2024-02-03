@@ -7,7 +7,7 @@
 - Analista de Sistemas
 - Técnica em Desenvolvimento de Sistemas pela Etec
 - Atualmente cursando Tecnólogo em Análise e Desenvolvimento de Sistemas na Descomplica Faculdade
-- Analista de Desenvolvimento de Sistemas no Grupo Gelog
+- Assistente de Sistemas no Grupo Gelog
 - Entre em contato: raquelstefany.work@gmail.com
 
 <hr>
