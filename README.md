@@ -1,12 +1,12 @@
 <h1>
-    Olá!! Me chamo Raquel Stefany 👋
+    Olá!! Me chamo Raquel Rodrigues 👋
 </h1>
 
 ### 😀 Sobre mim:
 
 - Analista de Sistemas
 - Técnica em Desenvolvimento de Sistemas pela Etec
-- Atualmente cursando Tecnólogo em Análise e Desenvolvimento de Sistemas na Descomplica Faculdade
+- Atualmente cursando Tecnólogo em Análise e Desenvolvimento de Sistemas na Unisantos
 - Assistente de Sistemas no Grupo Gelog
 - Entre em contato: raquelstefany.work@gmail.com
 
