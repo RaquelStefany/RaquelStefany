@@ -4,7 +4,8 @@
 
 ### 😀 Sobre mim:
 
-- Analista de Sistemas
+#### Analista de Sistemas
+
 - Técnica em Desenvolvimento de Sistemas pela Etec
 - Atualmente cursando Tecnólogo em Análise e Desenvolvimento de Sistemas na Unisantos
 - Analista de Sistemas no Grupo Gelog
@@ -12,44 +13,47 @@
 
 <hr>
 
-### ⚡ Tecnologias
+### ⚡ Linguagens de Programação
 
-<a href="https://github.com/RaquelStefany">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Raquel-HTML"/>        
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Raquel-CSS" />   
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Raquel-JavaScript" />        
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Raquel-PHP" />    
-    <img src="https://img.shields.io/badge/SQL%20Server-00000F?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Raquel-SQL" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Raquel-React" />
-    <img src="https://img.shields.io/badge/Python-ffbc00?style=for-the-badge&logo=python&logoColor=000000" alt="Raquel-Python" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Raquel-CSharp" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Raquel-CPlusPlus" />
-</a>
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚡ Banco de Dados
+
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚡ Frameworks
+
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚡ Bibliotecas
+
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![AgGrid](https://img.shields.io/badge/AgGrid-%23EF4223.svg?style=for-the-badge)
+![AgCharts](https://img.shields.io/badge/AgCharts-%23FF0000.svg?style=for-the-badge)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
 <hr>
 
 ### 📈 Estatísticas
 
-<a href="https://github.com/RaquelStefany">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelStefany&layout=compact&langs_count=10&theme=github_dark">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RaquelStefany&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-</a>
+![GitHubStats](https://github-readme-stats.vercel.app/api?username=RaquelStefany&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
+
+![MostUsedLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelStefany&layout=compact&langs_count=10&theme=github_dark)
 
 <hr>
 
 ### ⭐ Redes Sociais
 
-<div>
-    <a href="https://www.linkedin.com/in/raquelstefany/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Raquel-LinkedIn"/>
-    </a>      
-    <a href="https://www.instagram.com/raquelrodriguez013/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Raquel-Instagram"/>
-    </a>
-    <a href="https://www.facebook.com/raquelstefany.g/" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Raquel-Facebook"/>
-    </a>         
-    <a href="mailto:raquelstefany.work@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Raquel-Gmail"/>
-    </a> 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raquelstefany/)
+[![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raquelrodriguez013/)
+[![LinkedIn](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/raquelstefany.g/)
+[![LinkedIn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raquelstefany.work@gmail.com)
