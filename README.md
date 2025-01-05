@@ -4,7 +4,9 @@ Olá, meu nome é Raquel Rodrigues. ![](https://user-images.githubusercontent.co
 Analista de Sistemas
 --------------------
 
-Sou Analista de Sistemas no Grupo Gelog, com formação em Técnico de Desenvolvimento de Sistemas e atualmente graduando em Análise e Desenvolvimento de Sistemas. Tenho experiência no desenvolvimento de soluções web, com foco em Python, PHP e SQL Server, além de habilidades em identificar e corrigir erros em sistemas através da análise de dados e bancos de dados. Tenho familiaridade com a criação de relatórios em Crystal Reports e desenvolvimento de dashboards no Power BI, ferramentas que valorizam para a otimização de processos e geração de insights. Busco sempre entregar soluções eficientes, com atenção aos detalhes e capacidade de resolver desafios de forma ágil, mantendo um compromisso contínuo com o aprendizado e a inovação.
+Sou Analista de Sistemas no Grupo Gelog, com formação em Técnico de Desenvolvimento de Sistemas e atualmente graduando em Análise e Desenvolvimento de Sistemas. Tenho experiência no desenvolvimento de soluções web, com foco em Python, PHP e SQL Server, além de habilidades em identificar e corrigir erros em sistemas através da análise de dados e bancos de dados. 
+
+Tenho familiaridade com a criação de relatórios em Crystal Reports e desenvolvimento de dashboards no Power BI, ferramentas que valorizam para a otimização de processos e geração de insights. Busco sempre entregar soluções eficientes, com atenção aos detalhes e capacidade de resolver desafios de forma ágil, mantendo um compromisso contínuo com o aprendizado e a inovação.
 
 * 🌍 Moro em São Vicente/SP - Brasil
 * 🖥️ Veja meu portfólio em [Meu Portfólio](http://portfolio-raquel-stefany.vercel.app/)[](http://portfolio-raquel-stefany.vercel.app/)
