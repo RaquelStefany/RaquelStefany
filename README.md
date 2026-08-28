@@ -126,12 +126,12 @@ Antecipe mudanças. Reduza imprevistos. Opere com confiança.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaquelStefany&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E7FF&text_color=FFFFFF&icon_color=FF2E88" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelStefany&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" />
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaquelStefany&theme=tokyonight" alt="Resumo do perfil GitHub" />
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RaquelStefany&bg_color=0D1117&color=00E7FF&line=8B5CF6&point=FF2E88&area=true&hide_border=true" />
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaquelStefany&theme=tokyonight" alt="Estatísticas do GitHub" />
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaquelStefany&theme=tokyonight" alt="Linguagens por repositório" />
 
 </div>
 
