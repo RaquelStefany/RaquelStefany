@@ -67,8 +67,11 @@ Tenho experiência com **Python, PHP, SQL Server, JavaScript e C#**, além de fe
 ### 💻 [LocalTech — TCC](https://github.com/RaquelStefany/LocalTechTCC)
 Projeto desenvolvido como trabalho de conclusão do curso técnico em Desenvolvimento de Sistemas.
 
-### 🚀 [Kliqo Tech](https://github.com/orgs/Kliqo-Tech/repositories)
-Projetos desenvolvidos no ecossistema **Kliqo**, voltados à criação de soluções digitais e tecnologia para negócios locais.
+### 🚀 [Kliqo](https://kliqo.tech/)
+Site institucional da **Kliqo**, com soluções de gestão, tráfego pago, desenvolvimento de sistemas, integrações e automações.
+
+### ⚓ [SeaTracking](https://seatracking.kliqo.tech/)
+**Inteligência operacional para o Porto de Santos.** Antecipe mudanças. Reduza imprevistos. Opere com confiança.
 
 ---
 
