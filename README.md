@@ -64,20 +64,11 @@ Tenho experiência com **Python, PHP, SQL Server, JavaScript e C#**, além de fe
 
 ## 🚀 Projetos e estudos em destaque
 
-### 🗄️ [SQL Database Specialist](https://github.com/RaquelStefany/SQLDatabaseSpecialist)
-Estudos e práticas voltados a **SQL, modelagem e banco de dados**.
-
-### 🐍 [Python para Engenharia de Dados](https://github.com/RaquelStefany/PythonEngenhariaDados)
-Repositório dedicado a estudos e exercícios com **Python aplicado a dados**.
-
-### 💜 [Estudos C#](https://github.com/RaquelStefany/EstudosCSharpAlura)
-Exercícios e evolução dos estudos em **C# e ecossistema .NET**.
-
-### 💇🏽‍♀️ [Afro Hair](https://github.com/RaquelStefany/AfroHair)
-Projeto web comercial e informativo desenvolvido para apresentar serviços, produtos e informações de um salão especializado em cabelos afro.
-
 ### 💻 [LocalTech — TCC](https://github.com/RaquelStefany/LocalTechTCC)
 Projeto desenvolvido como trabalho de conclusão do curso técnico em Desenvolvimento de Sistemas.
+
+### 🚀 [Kliqo Tech](https://github.com/orgs/Kliqo-Tech/repositories)
+Projetos desenvolvidos no ecossistema **Kliqo**, voltados à criação de soluções digitais e tecnologia para negócios locais.
 
 ---
 
